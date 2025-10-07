@@ -1,0 +1,10 @@
+/home/sc46/some_cargo_osdk/target/x86_64-unknown-none/debug/deps/libosdk_heap_allocator-d796490463ebde88.rmeta: /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/lib.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/cpu_local_allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/slab_cache.rs
+
+/home/sc46/some_cargo_osdk/target/x86_64-unknown-none/debug/deps/libosdk_heap_allocator-d796490463ebde88.rlib: /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/lib.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/cpu_local_allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/slab_cache.rs
+
+/home/sc46/some_cargo_osdk/target/x86_64-unknown-none/debug/deps/osdk_heap_allocator-d796490463ebde88.d: /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/lib.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/cpu_local_allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/slab_cache.rs
+
+/home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/lib.rs:
+/home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/allocator.rs:
+/home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/cpu_local_allocator.rs:
+/home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/slab_cache.rs:

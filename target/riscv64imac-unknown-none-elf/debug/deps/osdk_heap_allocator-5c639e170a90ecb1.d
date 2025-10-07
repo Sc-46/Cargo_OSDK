@@ -1,0 +1,10 @@
+/home/sc46/some_cargo_osdk/target/riscv64imac-unknown-none-elf/debug/deps/libosdk_heap_allocator-5c639e170a90ecb1.rmeta: /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/lib.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/cpu_local_allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/slab_cache.rs
+
+/home/sc46/some_cargo_osdk/target/riscv64imac-unknown-none-elf/debug/deps/libosdk_heap_allocator-5c639e170a90ecb1.rlib: /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/lib.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/cpu_local_allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/slab_cache.rs
+
+/home/sc46/some_cargo_osdk/target/riscv64imac-unknown-none-elf/debug/deps/osdk_heap_allocator-5c639e170a90ecb1.d: /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/lib.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/cpu_local_allocator.rs /home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/slab_cache.rs
+
+/home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/lib.rs:
+/home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/allocator.rs:
+/home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/cpu_local_allocator.rs:
+/home/sc46/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/osdk-heap-allocator-0.16.1/src/slab_cache.rs:
