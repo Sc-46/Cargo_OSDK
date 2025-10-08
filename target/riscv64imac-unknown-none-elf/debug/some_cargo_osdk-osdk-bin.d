@@ -1,1 +1,0 @@
-/home/sc46/some_cargo_osdk/target/riscv64imac-unknown-none-elf/debug/some_cargo_osdk-osdk-bin: /home/sc46/some_cargo_osdk/src/lib.rs /home/sc46/some_cargo_osdk/target/osdk/some_cargo_osdk-run-base/src/main.rs

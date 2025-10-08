@@ -16,8 +16,12 @@ fn kernel_main() {
     println!();
 }
 
-#[cfg(test)]
+#[cfg(ktest)]
 mod unit_tests{
     use super::*;
 
+    #[ktest]
+    fn unit_test(){
+        assert_eq!(6*14,86);
+    }
 }

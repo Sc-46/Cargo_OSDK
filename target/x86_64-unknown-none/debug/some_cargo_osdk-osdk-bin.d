@@ -1,1 +1,0 @@
-/home/sc46/some_cargo_osdk/target/x86_64-unknown-none/debug/some_cargo_osdk-osdk-bin: /home/sc46/some_cargo_osdk/src/lib.rs /home/sc46/some_cargo_osdk/target/osdk/some_cargo_osdk-test-base/src/main.rs
