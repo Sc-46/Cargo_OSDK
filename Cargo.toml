@@ -1,10 +1,7 @@
 [package]
-name = "some_cargo_osdk"
+name = "cargo_osdk"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies.ostd]
 version = "0.16.1"
-
-[workspace]
-exclude = ["target/osdk/base", "target/osdk/test-base"]
