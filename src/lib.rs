@@ -7,7 +7,7 @@ use owo_colors::OwoColorize;
 
 struct CustomLog {}
 impl log::Log for CustomLog {
-    fn enabled(&self, metadata: &log::Metadata) -> bool {
+    fn enabled(&self, _metadata: &log::Metadata) -> bool {
         true
     }
     fn log(&self, record: &log::Record) {
