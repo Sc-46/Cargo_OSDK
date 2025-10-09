@@ -65,7 +65,9 @@ checksum = "a7913f22349ffcfc6ca0ca9a656ec26cfbba538ed49c31a273dff2c5d1ea83d9"
 name = "cargo_osdk"
 version = "0.1.0"
 dependencies = [
+ "log",
  "ostd",
+ "owo-colors",
 ]
 
 [[package]]
@@ -391,6 +393,12 @@ name = "ostd-test"
 version = "0.16.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "13ab8ca5a2977a839dda0a1ff9076bfdd0fbf2eb4a84aa0b0a682c421fe312b2"
+
+[[package]]
+name = "owo-colors"
+version = "4.2.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9c6901729fa79e91a0913333229e9ca5dc725089d1c363b2f4b4760709dc4a52"
 
 [[package]]
 name = "ppv-lite86"

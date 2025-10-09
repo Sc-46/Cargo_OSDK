@@ -3,5 +3,9 @@ name = "cargo_osdk"
 version = "0.1.0"
 edition = "2024"
 
+[dependencies]
+log = "0.4.28"
+owo-colors = "4.2.3"
+
 [dependencies.ostd]
 version = "0.16.1"
